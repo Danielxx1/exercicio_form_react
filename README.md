@@ -1,15 +1,20 @@
-# fernandev
+# formulario
+## exercicio feito com o auxilio do professor fernando do canal fernandev
 
-## React Interview Challenge #03
+- Projeto feito com reactjs desenvolvido para aumentar meus conhecimentos em reactjs, o projeto é um formulario que contem 4 campos que estao ligados a uma progress bar que almenta de acordo com o campo preenchido como mostrado nos prints
 
-E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
+- Para iniciar o projeto basta clonar o projeto para sua maquina e abrir o terminal na pasta clonada e dar um npm run dev para abrir a apliacaçao
 
-Dessa vez temos um formulário que deve alterar uma barra de progresso conforme seus campos vão sendo digitados pelo usuário. Muitos conceitos usados nesse desafio!
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_1.png)
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_2.png)
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_3.png)
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_4.png)
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_5.png)
+![img 1](https://github.com/Danielxx1/exercicio_form_react/blob/main/img/Screenshot_6.png)
 
-Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo, porque isso me motiva a trazer mais conteúdos desse gênero.**
 
-## Resolução do desafio
 
-https://youtu.be/ngcH4e2RTUM
+
+
+
